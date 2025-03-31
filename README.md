@@ -1,4 +1,4 @@
-# 📦 Amazon Delivery Analytics Project
+# 📦 Amazon Delivery Analytics
 
 ## ✨ Project Overview
 This project analyzes over **1 million delivery records** to uncover delay drivers and optimize logistics performance. Using **SQL** for data extraction and analysis, and **Power BI/Tableau** for visualization, the project delivers insights into:
